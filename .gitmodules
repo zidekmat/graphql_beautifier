@@ -1,0 +1,4 @@
+[submodule "graphql-ruby"]
+	path = graphql-ruby
+	url = https://github.com/zidekmat/graphql-ruby
+	branch = master
